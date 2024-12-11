@@ -6,7 +6,7 @@ Final project for CS420 Advanced Programming Languages. A programming language t
 2. Go to the folder where you downloaded the haikulang.py file or to the 'source code' folder where you pulled the repo
 3. Run the command 
 ```console
-py haikulang 'file name'.haiku
+py haikulang /path/to/your/file.haiku
 ```
 
 **SYNTAX**
