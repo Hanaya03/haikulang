@@ -41,14 +41,14 @@ Rain pours - for statement. The word after the statement becomes the variable th
  The rain pours, willows- like naught. Willows under bright- healthy, lovely sun...
 ```
 Conditionals
-    and - equation operator
-    under - less than operator
-    underneath - less than or equal to operator
-    over - greater than operator
-    above - greater than or equal to operator
+    - and - equation operator
+    - under - less than operator
+    - underneath - less than or equal to operator
+    - over - greater than operator
+    - above - greater than or equal to operator
 
 Arithmetic
-    Summation - Performed by placing multiple variables or positive, neutral, or negative keywords after a 'like', 'seasons pass', or 'seasons end' keyword
-    Seed/Breed - multiplication
-    kill - division
-    spare - modulo
+    - Summation - Performed by placing multiple variables or positive, neutral, or negative keywords after a 'like', 'seasons pass', or 'seasons end' keyword
+    - Seed/Breed - multiplication
+    - kill - division
+    - spare - modulo
