@@ -359,6 +359,7 @@ def countSyllablesInWord(word):
     # print('word: {}, count: {}'.format(word, syllableCount))
     return syllableCount
 
+
 # ensure that the provided file is a .haiku file
 if not sys.argv[1].endswith('.haiku'):
     print('ERROR: please provide a .haiku file')
