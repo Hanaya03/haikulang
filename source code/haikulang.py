@@ -336,9 +336,11 @@ def countSyllablesInLine(line):
 def countSyllablesInWord(word):
     syllableCount = 1
     word = re.sub(r'[^a-z]', '', word)
-    vowelGroups = re.findall(r'[aeiouy]+',word)
+    vowelGroups = re.findall(r'[aeiouy]+', word)
     syllableCount = len(vowelGroups)
 
+    # edge cases
+    # scenarios where syllables should be added or removed
     if word[-1] == 'e' and syllableCount > 1:
         if word[-2] == 'l':
             syllableCount += 1
@@ -356,7 +358,6 @@ def countSyllablesInWord(word):
     if word.find('wl') > 0 and ('e' in vowelGroups or 'o' in vowelGroups):
         syllableCount += 1
     
-    # print('word: {}, count: {}'.format(word, syllableCount))
     return syllableCount
 
 
