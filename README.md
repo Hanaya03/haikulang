@@ -22,7 +22,7 @@ Like - variable assignment
 ```
 willows like tall, joyful plants...
 ```
-With - if statment\n
+With - if statment<br />
 Then - end if. Must follow a 'with' or 'but' statement.
 ```
 with willows under tall plants... we howl 'true' then
