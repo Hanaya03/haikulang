@@ -27,11 +27,11 @@ Then - end if. Must follow a 'with' or 'but' statement.
 ```
 with willows under tall plants... we howl 'true' then
 ```
-But- else statement. Must follow a 'with' statement. May precede another with statement
+But- else statement. Must follow a 'with' statement. May precede another 'with' statement
 ```
 with seas under skies... winds howl 'true' but the fish- howl 'false' until then...
 ```
-Seasons pass - while statment
+Seasons pass - while statment<br />
 Seasons end - end while statement. Must come after a while statement
 ```
 seasons pass, willows- under monkeys. The trees all- howl 'true'. Seasons ends...
@@ -52,3 +52,15 @@ Arithmetic
 - Seed/Breed - multiplication
 - kill - division
 - spare - modulo
+
+Positive Key words<br />
+The following words may be used in sequence to perform summation. Every keyword adds 1 to the sum.<br />
+warm, sun, bright, active, play, joy, healthy, lovely, great, plant, tall, beautiful
+
+Neutral Key words<br />
+The following words may be used in sequence to perform summation. Every keyword adds 0 to the sum.<br />
+serene, day, naught
+
+Negative Key words<br />
+The following words may be used in sequence to perform summation. Every keyword adds -1 to the sum.<br />
+ugly, foul, putrid, rotten, scummy, sick
